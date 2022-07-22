@@ -1,12 +1,10 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)]
-<h1 align="center">Hi 👋, I'm Al-Adnan-Mehedi</h1>
+<h1 align="center">Hi, I'm Al-Adnan-Mehedi</h1>
 <h3 align="center">A passionate Python-Django developer from Bangladesh.</h3>
 <img src="https://images.prismic.io/smarttask/398a3853-3b15-4dd7-937e-b883f9970e5f_productivity+improvement+techniques.gif?auto=compress,format" align="right" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanmehedi2462&label=Profile%20views&color=0e75b6&style=flat" alt="adnanmehedi2462" /> </p>
 
 - 🔭 I’m currently working on **python-django developer**
-
-- 🌱 I’m currently learning **React & Rest**
 
 - 👨‍💻 All of my projects are available at [adnancyberway.com](adnancyberway.com)
 
@@ -15,8 +13,6 @@
 - 💬 Ask me about **Python-Django,React,Rest-Framework**
 
 - 📫 How to reach me **adnanjohan54@gmail.com**
-
-- ⚡ Fun fact **Hahahah!!! Just kidding 🤣🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
