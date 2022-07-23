@@ -6,7 +6,7 @@
 
  I’m currently working on **python-django developer**
 
-How to reach me **adnanjohan54@gmail.com**
+How to reach me- **adnanjohan54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
