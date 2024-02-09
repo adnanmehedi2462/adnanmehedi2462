@@ -4,7 +4,7 @@
 <img src="https://images.prismic.io/smarttask/398a3853-3b15-4dd7-937e-b883f9970e5f_productivity+improvement+techniques.gif?auto=compress,format" align="right" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanmehedi2462&label=Profile%20views&color=0e75b6&style=flat" alt="adnanmehedi2462" /> </p>
 
- I’m currently working on **python-django developer**
+ I’m currently working as a **python-django developer**
 
 How to reach me **adnanjohan54@gmail.com**
 
